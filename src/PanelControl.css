@@ -1,0 +1,43 @@
+.panel-control{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.panel-control-aside{
+    width: 25%;
+    height: 100%;
+    background-color:#123F6E;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column
+
+}
+.panel-control-aside div{
+    width: 270px;
+    height: 270px;
+    background-color:white ;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.panel-control-aside div img{
+    width: 90% ;
+    height: 90%;
+    border-radius: 50%;
+    border: solid 1px black ;
+
+}
+
+.panel-control-aside nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 60%;
+
+}
