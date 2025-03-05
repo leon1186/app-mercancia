@@ -3,3 +3,12 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-image:url('/1202.jpg');
+    background-size: cover;
+    background-position: center center;/*top center  center bottom (aqui ya puedes jugar con las imagenes )*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}   
+/* como la imagen esta dentro de la carpeta public simplemente la llamo directamente ctrl+kc
+la imagen esta dentro de la carpeta public entonces no necesita otra referencia*/ 
