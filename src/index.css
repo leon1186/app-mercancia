@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background-image:url('/1202.jpg');
+    background-image:url('/1202.jpg');/*bajamos la fotos directamente asi sin colocar public debido a que ya sabemos que esta en public */
     background-size: cover;
     background-position: center center;/*top center  center bottom (aqui ya puedes jugar con las imagenes )*/
     background-repeat: no-repeat;
