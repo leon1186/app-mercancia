@@ -7,6 +7,6 @@ import PanelControl from './PanelControl'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <PanelControl/>{/*llamda de la fuction panel control ()*/}
+    <PanelControl/>{/*llamda de la fuction panelcontrol(), actulizando*/}
   </StrictMode>,
 )

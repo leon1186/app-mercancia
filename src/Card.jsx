@@ -1,5 +1,7 @@
 // todos los componentes se crean dentro del src
 
+import react from "@vitejs/plugin-react-swc"
+
 function Card({usuario}){
     return(
     <div className="panel-control-card">
